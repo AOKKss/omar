@@ -1,6 +1,6 @@
 token= NTE0MzI2ODY4OTI1ODc0MTc2.DtU8WQ.tkTlJEG2MeX0iu5IelqMBYZJ-rE
-owner=  250689902767898624 
+owner=   532712973467123712
 prefix= o
-game= Only Omxr, ×#6886 
+game= ohlep | by 89!
 stayinchannel=true
 songinstatus=true 
